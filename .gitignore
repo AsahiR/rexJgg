@@ -3,4 +3,4 @@
 !/src/
 !/test/
 !/.gitignore
-/build.fxbuild
+!/build.fxbuild
